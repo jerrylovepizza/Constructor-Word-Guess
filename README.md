@@ -2,9 +2,6 @@
 # Overview
 This is a Word Guess game built with constructor functions. It is a Node command line app that takes in parameters and gives you back data. The game receive user input using the inquirer, chalk, figlet and boxen npm packages.
 
-* 👉 Click >>>Here<<< Check my 📺 video to see how it works.
-concert
-
 # 📓 Instruction
 When start, game will pick a Incredible movie character name word. 
 The player has 6 chances to find out the name by enter any letter.
