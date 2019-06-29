@@ -1,0 +1,28 @@
+{
+    "name": "Constructor-Word-Guess",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+      "boxen": "^2.1.0",
+      "chalk": "^2.4.2",
+      "chalklet": "^1.0.0",
+      "figlet": "^1.2.1",
+      "inquirer": "^6.2.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/squall2046/Constructor-Word-Guess.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/squall2046/Constructor-Word-Guess/issues"
+    },
+    "homepage": "https://github.com/squall2046/Constructor-Word-Guess#readme"
+  }
